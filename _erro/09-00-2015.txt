@@ -1,0 +1,10 @@
+
+Log Entry : 
+09/04/2015 11:12:31
+Error in: http://localhost:51416/default.aspx. Error Message:Erro na página: http://localhost:51416/default.aspx. Mensagem de erro: O sistema não pode encontrar o arquivo especificado
+__________________________
+
+Log Entry : 
+09/04/2015 11:12:31
+Error in: http://localhost:51416/default.aspx. Error Message:Erro na página: http://localhost:51416/default.aspx. Mensagem de erro: O sistema não pode encontrar o arquivo especificado
+__________________________

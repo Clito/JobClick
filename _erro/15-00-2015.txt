@@ -1,0 +1,25 @@
+
+Log Entry : 
+15/05/2015 12:13:00
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+15/05/2015 12:13:53
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/retorno.aspx?transaction_id=5416A710-5576-4359-819B-4179C4FCFB7F. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/retorno.aspx?transaction_id=5416A710-5576-4359-819B-4179C4FCFB7F. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+15/05/2015 14:09:06
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/retorno.aspx?transaction_id=5416A710-5576-4359-819B-4179C4FCFB7F. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/retorno.aspx?transaction_id=5416A710-5576-4359-819B-4179C4FCFB7F. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+15/05/2015 14:27:02
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/retorno.aspx?transaction_id=5416A710-5576-4359-819B-4179C4FCFB7F. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/retorno.aspx?transaction_id=5416A710-5576-4359-819B-4179C4FCFB7F. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+15/05/2015 14:34:29
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/retorno.aspx?transaction_id=5416A710-5576-4359-819B-4179C4FCFB7F. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/retorno.aspx?transaction_id=5416A710-5576-4359-819B-4179C4FCFB7F. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________

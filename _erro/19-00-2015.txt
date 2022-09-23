@@ -1,0 +1,15 @@
+
+Log Entry : 
+19/04/2015 12:40:07
+Error in: http://betaoportunidadesbh.regra5.com.br/transacao.aspx. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/transacao.aspx. Mensagem de erro: O arquivo '/transacao.aspx' não existe.
+__________________________
+
+Log Entry : 
+19/04/2015 13:29:00
+Error in: http://betaoportunidadesbh.regra5.com.br/_transacao.aspx. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_transacao.aspx. Mensagem de erro: O arquivo '/_transacao.aspx' não existe.
+__________________________
+
+Log Entry : 
+19/06/2015 11:27:38
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________

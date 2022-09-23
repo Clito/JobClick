@@ -1,0 +1,5 @@
+
+Log Entry : 
+23/04/2015 10:36:49
+Error in: http://betaoportunidadesbh.regra5.com.br/default.aspx. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/default.aspx. Mensagem de erro: The wait operation timed out
+__________________________

@@ -1,0 +1,50 @@
+
+Log Entry : 
+12/04/2015 09:06:35
+Error in: http://localhost:8989/logout.aspx. Error Message:Erro na página: http://localhost:8989/logout.aspx. Mensagem de erro: O arquivo '/logout.aspx' não existe.
+__________________________
+
+Log Entry : 
+12/04/2015 09:06:35
+Error in: http://localhost:8989/logout.aspx. Error Message:Erro na página: http://localhost:8989/logout.aspx. Mensagem de erro: O arquivo '/logout.aspx' não existe.
+__________________________
+
+Log Entry : 
+12/04/2015 10:43:39
+Error in: http://localhost:8989/_candidato/dadospessoais.aspx. Error Message:Erro na página: http://localhost:8989/_candidato/dadospessoais.aspx. Mensagem de erro: Controle 'ContentPlaceHolder1_TextBoxCEP' do tipo 'TextBox' deve ser inserido em uma marca de formato com runat=server.
+__________________________
+
+Log Entry : 
+12/05/2015 09:19:35
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+12/05/2015 09:23:21
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+12/05/2015 09:28:32
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+12/05/2015 09:40:03
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+12/05/2015 09:42:18
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+12/05/2015 09:50:44
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+12/05/2015 09:52:11
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________

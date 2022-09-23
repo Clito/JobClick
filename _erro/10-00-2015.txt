@@ -1,0 +1,40 @@
+
+Log Entry : 
+10/04/2015 10:32:32
+Error in: http://localhost:8989/Montador/imagemCandidato.ashx?id=34468. Error Message:Erro na página: http://localhost:8989/Montador/imagemCandidato.ashx?id=34468. Mensagem de erro: Não é possível converter um objeto do tipo 'System.DBNull' no tipo 'System.Byte[]'.
+__________________________
+
+Log Entry : 
+10/04/2015 10:45:14
+Error in: http://localhost:8989/_candidato/imagem.aspx. Error Message:Erro na página: http://localhost:8989/_candidato/imagem.aspx. Mensagem de erro: Não foi possível localizar uma parte do caminho 'H:\Projetos\2015\OPORTUNIDADESBH\LAYOUT\Aprovado\site\_candidato\'.
+__________________________
+
+Log Entry : 
+10/04/2015 11:16:41
+Error in: http://localhost:8989/logout.aspx. Error Message:Erro na página: http://localhost:8989/logout.aspx. Mensagem de erro: O arquivo '/logout.aspx' não existe.
+__________________________
+
+Log Entry : 
+10/05/2015 14:12:38
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+10/05/2015 14:16:21
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/retorno.aspx?transaction_id=79AAC102-30B8-4643-8EC0-A9A19AECDC76. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/retorno.aspx?transaction_id=79AAC102-30B8-4643-8EC0-A9A19AECDC76. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+10/05/2015 14:19:45
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/retorno.aspx?transaction_id=79AAC102-30B8-4643-8EC0-A9A19AECDC76. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/retorno.aspx?transaction_id=79AAC102-30B8-4643-8EC0-A9A19AECDC76. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+10/05/2015 14:35:01
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/retorno.aspx?transaction_id=79AAC102-30B8-4643-8EC0-A9A19AECDC76. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/retorno.aspx?transaction_id=79AAC102-30B8-4643-8EC0-A9A19AECDC76. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+10/05/2015 14:35:54
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/notificacao.aspx. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/notificacao.aspx. Mensagem de erro: D:\inetpub\wwwroot_oportunidadesBH_Alpha\site\_pagamento\notificacao.aspx.vb(25): error BC30506: Handles clause requires a WithEvents variable defined in the containing type or one of its base types.
+__________________________

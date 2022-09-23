@@ -1,0 +1,60 @@
+
+Log Entry : 
+11/05/2015 10:42:18
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+11/05/2015 10:48:18
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+11/05/2015 10:50:19
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/retorno.aspx?transaction_id=CAF4446D-3C6F-4DDB-AB79-B5AC03EAB3F2. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/retorno.aspx?transaction_id=CAF4446D-3C6F-4DDB-AB79-B5AC03EAB3F2. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+11/05/2015 10:51:31
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/retorno.aspx?transaction_id=CAF4446D-3C6F-4DDB-AB79-B5AC03EAB3F2. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/retorno.aspx?transaction_id=CAF4446D-3C6F-4DDB-AB79-B5AC03EAB3F2. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+11/05/2015 14:44:52
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+11/05/2015 14:46:22
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/retorno.aspx?transaction_id=79979228-F715-4AF3-BCDF-415761871AD3. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/retorno.aspx?transaction_id=79979228-F715-4AF3-BCDF-415761871AD3. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+11/05/2015 14:54:37
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+11/05/2015 15:34:36
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+11/05/2015 15:54:32
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+11/05/2015 15:59:58
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+11/05/2015 16:00:35
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+11/05/2015 16:30:46
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________

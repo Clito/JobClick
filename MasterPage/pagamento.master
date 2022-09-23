@@ -1,0 +1,130 @@
+<%@ Master Language="VB" CodeFile="pagamento.master.vb" Inherits="MasterPage_pagamento" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>OportunidadesBH</title>
+<meta http-equiv="content-type" content="application/x-www-form-urlencoded; charset=ISO-8859-1">
+<meta name="format-detection" content="telephone=no" />
+<link rel="icon" href="../images/logo.ico">
+<link rel="shortcut icon" href="../images/logo.ico" />
+
+<link href="../assets/css/bootstrap.css" rel="stylesheet">
+<link href="../assets/css/main.css" rel="stylesheet">
+<link href="../assets/css/croppic.css" rel="stylesheet">
+
+<link href="../css/app.css" rel="stylesheet"  />
+<link href="../css/style.css"  rel="stylesheet" />
+<link href="../css/contact-form.css"  rel="stylesheet" />
+
+<script src="../js/jquery.js"></script>
+<script src="../js/jquery-migrate-1.1.1.js"></script>
+<script src="../js/jquery.easing.1.3.js"></script>
+<script src="../js/script.js"></script> 
+<script src="../js/superfish.js"></script>
+<script src="../js/jquery.equalheights.js"></script>
+<script src="../js/jquery.mobilemenu.js"></script>
+<script src="../js/tmStickUp.js"></script>
+<script src="../js/jquery.ui.totop.js"></script>
+<script>
+ $(window).load(function(){
+  $().UItoTop({ easingType: 'easeOutQuart' });
+  $('#stuck_container').tmStickUp({});  
+ }); 
+</script>
+<!--[if lt IE 8]>
+ <div style=' clear: both; text-align:center; position: relative;'>
+   <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
+     <img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
+   </a>
+</div>
+<![endif]-->
+<!--[if lt IE 9]>
+<script src="js/html5shiv.js"></script>
+<link rel="stylesheet" media="screen" href="css/ie.css">
+<![endif]-->
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <!--==============================
+              header
+=================================-->
+
+<header>
+    <div class='painel'>
+        <p><asp:Label ID="LabelSESSION" runat="server" Text="" Visible="False"></asp:Label></p>
+        <p></p>
+        <asp:DataList ID="DataListMONTABLOCOIDENTIFICADOR" runat="server" DataSourceID="SqlDataSourceMONTADOR_BLOCO_IDENTIFICADOR_CANDIDATO" RepeatLayout="Flow">
+            <ItemTemplate>
+                <asp:Label ID="HTMLLabel" runat="server" Text='<%# Eval("HTML") %>' />
+            </ItemTemplate>
+        </asp:DataList>
+    </div>
+  <div class="container">
+    <div class="row">
+      <div class="grid_12 rel">
+        <h1>
+          <a href="default.aspx">
+            <img src="../images/logo.png" alt="Logo alt" class="logo">
+          </a>
+        </h1>
+      </div>
+    </div>
+  </div>
+  <section id="stuck_container">
+  <!--==============================
+              Stuck menu
+  =================================-->
+    <div class="container">
+      <div class="row">
+        <div class="grid_12 ">
+          <div class="navigation ">
+            <nav>
+              <ul class="sf-menu">
+               <li id="HOME" runat="server" class="current"><a title="Volte para o início" href="../_candidato/default.aspx">Home</a></li>
+               <li id="DADOSPESSOAIS" runat="server"><a title="Seus dados pessoais" href="../_candidato/dadospessoais.aspx">Dados Pessoais</a></li>
+               <li id="DADOSPROFISSIONAIS" runat="server"><a title="Seus dados profissionais" href="../_candidato/dadosprofissionais.aspx">Dados Profissionais</a></li> 
+               <li id="OPORTUNIDADE" runat="server"><a title="Oportunidades" href="../_candidato/oportunidade.aspx">Oportunidades</a></li> 
+               <li id="PAGAMENTO" runat="server"><a title="Serviços" href="../_pagamento/default.aspx">Produtos & Serviços</a></li> 
+               <li id="SAIR" runat="server"><a title="Sair" href="../_candidato/logout.aspx">Sair</a></li> 
+             </ul>
+            </nav>
+            <div class="clear"></div>
+          </div>       
+         <div class="clear"></div>  
+        </div>
+     </div> 
+    </div> 
+  </section>
+</header>
+
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+
+<!--==============================
+              footer
+=================================-->
+<footer id="footer">
+  <div class="container">
+    <div class="row">
+      <div class="grid_12"> 
+        <div class="copyright"><span class="brand">OportunidadesBH</span> &copy; <span id="copyright-year"></span> | <a href="../regulamento.aspx">Regulamento</a>
+          <div class="sub-copy">Website desenvolvido por <a href="http://www.cheyenne.com.br/" rel="nofollow">Cheyenne Estúdio Multimídia</a></div>
+        </div>
+      </div>
+    </div>
+  </div>  
+</footer>
+<a href="#" id="toTop" class="fa fa-chevron-up"></a>
+    <asp:SqlDataSource ID="SqlDataSourceMONTADOR_BLOCO_IDENTIFICADOR_CANDIDATO" runat="server" ConnectionString="<%$ ConnectionStrings:dboportunidadesBH %>" SelectCommand="spMONTADOR_CANDIDATO_BLOCO_IDENTIFICADOR" SelectCommandType="StoredProcedure">
+        <SelectParameters>
+            <asp:SessionParameter Name="idCadastroCandidato" SessionField="idCadastroCandidato" Type="Int32" />
+        </SelectParameters>
+    </asp:SqlDataSource>
+</body>
+</html>

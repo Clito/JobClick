@@ -1,0 +1,45 @@
+
+Log Entry : 
+22/05/2019 12:09:39
+Error in: http://localhost:54314/default.aspx. Error Message:Erro na página: http://localhost:54314/default.aspx. Mensagem de erro: O sistema não pode encontrar o arquivo especificado
+__________________________
+
+Log Entry : 
+22/05/2019 12:11:20
+Error in: http://localhost:54314/default.aspx. Error Message:Erro na página: http://localhost:54314/default.aspx. Mensagem de erro: O sistema não pode encontrar o arquivo especificado
+__________________________
+
+Log Entry : 
+22/05/2019 12:16:12
+Error in: http://localhost:54314/default.aspx. Error Message:Erro na página: http://localhost:54314/default.aspx. Mensagem de erro: O sistema não pode encontrar o arquivo especificado
+__________________________
+
+Log Entry : 
+22/05/2019 14:37:03
+Error in: http://localhost:54314/default.aspx. Error Message:Erro na página: http://localhost:54314/default.aspx. Mensagem de erro: O sistema não pode encontrar o arquivo especificado
+__________________________
+
+Log Entry : 
+22/05/2019 14:41:06
+Error in: http://localhost:54314/_pagamento/default.aspx. Error Message:Erro na página: http://localhost:54314/_pagamento/default.aspx. Mensagem de erro: O sistema não pode encontrar o arquivo especificado
+__________________________
+
+Log Entry : 
+22/05/2019 15:33:39
+Error in: http://localhost:54314/_pagamento/default.aspx. Error Message:Erro na página: http://localhost:54314/_pagamento/default.aspx. Mensagem de erro: O sistema não pode encontrar o arquivo especificado
+__________________________
+
+Log Entry : 
+22/05/2019 15:37:46
+Error in: http://localhost:54314/default.aspx. Error Message:Erro na página: http://localhost:54314/default.aspx. Mensagem de erro: C:\Projetos\2015\JOBCLICK\WWWROOT\wwwroot_ti_empregos\site\MasterPage\anonimo.master.vb(42): error BC30288: A variável local 'tipousuario' já está declarada no bloco atual.
+__________________________
+
+Log Entry : 
+22/05/2019 16:24:01
+Error in: http://localhost:54314/default.aspx. Error Message:Erro na página: http://localhost:54314/default.aspx. Mensagem de erro: O sistema não pode encontrar o arquivo especificado
+__________________________
+
+Log Entry : 
+22/05/2019 16:25:00
+Error in: http://localhost:54314/default.aspx. Error Message:Erro na página: http://localhost:54314/default.aspx. Mensagem de erro: O sistema não pode encontrar o arquivo especificado
+__________________________

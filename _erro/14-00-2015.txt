@@ -1,0 +1,23 @@
+
+Log Entry : 
+14/04/2015 15:13:10
+Error in: http://localhost:51416/_pagamento/default.aspx. Error Message:Erro na página: http://localhost:51416/_pagamento/default.aspx. Mensagem de erro: O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção.
+Nome do parâmetro: index
+__________________________
+
+Log Entry : 
+14/04/2015 15:15:33
+Error in: http://localhost:51416/_pagamento/default.aspx. Error Message:Erro na página: http://localhost:51416/_pagamento/default.aspx. Mensagem de erro: O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção.
+Nome do parâmetro: index
+__________________________
+
+Log Entry : 
+14/04/2015 15:15:35
+Error in: http://localhost:51416/_pagamento/default.aspx. Error Message:Erro na página: http://localhost:51416/_pagamento/default.aspx. Mensagem de erro: O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção.
+Nome do parâmetro: index
+__________________________
+
+Log Entry : 
+14/04/2015 15:16:35
+Error in: http://localhost:51416/_pagamento/default.aspx. Error Message:Erro na página: http://localhost:51416/_pagamento/default.aspx. Mensagem de erro: H:\Projetos\2015\OPORTUNIDADESBH\LAYOUT\Aprovado\site\_pagamento\Default.aspx.vb(36): error BC30451: 'LabelCURL' não está declarado. Pode estar inacessível devido ao nível de proteção.
+__________________________

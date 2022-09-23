@@ -1,0 +1,40 @@
+
+Log Entry : 
+07/05/2015 17:05:10
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+07/05/2015 17:06:10
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/retorno.aspx. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/retorno.aspx. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+07/05/2015 17:06:42
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/retorno.aspx?transaction_id=96934334-B610-4E44-9510-D4551262BC35. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/retorno.aspx?transaction_id=96934334-B610-4E44-9510-D4551262BC35. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+07/05/2015 17:15:30
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/retorno.aspx?transaction_id=96934334-B610-4E44-9510-D4551262BC35. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/retorno.aspx?transaction_id=96934334-B610-4E44-9510-D4551262BC35. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+07/05/2015 17:15:44
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+07/05/2015 17:19:41
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+07/05/2015 17:19:51
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/default.aspx. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+07/05/2015 17:22:17
+Error in: http://betaoportunidadesbh.regra5.com.br/_pagamento/retorno.aspx?transaction_id=39022F4D-225B-4F80-8981-99C5601390BD. Error Message:Erro na página: http://betaoportunidadesbh.regra5.com.br/_pagamento/retorno.aspx?transaction_id=39022F4D-225B-4F80-8981-99C5601390BD. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
